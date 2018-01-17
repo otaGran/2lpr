@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">2lpr</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_scan">Scan</string>
+    <string name="title_my">My</string>
+    <string name="title_history">History</string>
+    <string name="title_activity_camera">拍照</string>
+    <string name="title_activity_camera2">拍照</string>
+    <string name="button_settings">设置</string>
+    <string name="button_capture_photo">拍照</string>
+    <string name="button_capture_video">录像</string>
+</resources>
